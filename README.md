@@ -1,7 +1,8 @@
 # INTRO-FrontEnd-Mision
-Practicas terminadas.
 
-<h1>Caso: Abogabot Descripción:</h1>
+<u>Practicas terminadas.</u>
+
+<h2>Caso: Abogabot Descripción:</h1>
 
 <ul> 
 <li>
