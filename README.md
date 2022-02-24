@@ -3,6 +3,8 @@ Practicas terminadas.
 
 <h1>Caso: Abogabot Descripción:</h1>
 
+<ul> 
+<li>
 Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
 
 Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
@@ -20,6 +22,8 @@ Al usuario le llegan correos de notificación para saber el avance de su proceso
 La página debe de ser responsive para poderla ver desde el celular.
 
 La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
+</li>
+</ul>
 
 Practicas
 
